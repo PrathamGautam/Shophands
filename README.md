@@ -11,15 +11,25 @@ Shop2Hand is a modern, stylish e-commerce website designed to provide users with
 
 ## Project Structure
 The project files are organized as follows:
+
 Shop2Hand/
+
 ├── index.html
+
 ├── about.html
+
 ├── products.html
+
 ├── contact.html
+
 ├── account.html
+
 ├── css/
+
 │ └── styles.css
+
 └── images/
+
 └── [image files]
 
 ## Technologies Used
